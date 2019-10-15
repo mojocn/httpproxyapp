@@ -1,9 +1,5 @@
-# http 反向代理
+# Golang HTTP Reverse Proxy 限定特性机器访问网站
 
-### https://blog.csdn.net/ilvnmm/article/details/84932129
+## 文本教程地址
 
-
-rsrc -manifest main.exe.manifest -ico rc.ico -o main.syso
-
-
-go build -o main.exe  -ldflags "-H windowsgui"
+[https://mojotv.cn/go/hardware-footprint-gui-proxy](https://mojotv.cn/go/hardware-footprint-gui-proxy)
